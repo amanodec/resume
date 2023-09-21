@@ -1,6 +1,6 @@
 body {
   font-family: "Arial", sans-serif;
-  background-color: black;
+  background-color: #000000;
   color: antiquewhite;
   margin: 0;
   padding: 30px 50px 30px 50px;
@@ -8,7 +8,7 @@ body {
   justify-content: space-evenly;
   border: 1px solid #ad4afc;
   margin: 50px 150px 50px 150px;
-  border-radius: 25px;;
+  border-radius: 25px;
 }
 
 a {
