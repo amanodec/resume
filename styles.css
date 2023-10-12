@@ -95,7 +95,7 @@ li {
   grid-gap: 20px;
 }
 
-.skills li {
+.skill-item {
   display: inline-block;
   margin-right: 10px;
   background-color: #ad4afc;
